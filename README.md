@@ -50,6 +50,8 @@ This UI/UX project focuses on designing a cosmetics shopping mobile app that enh
 ## 👩‍🎨 Designed By
 Soumya R
 B.E Computer Science Engineering
+Intern at ARTTIFAI TECH
+
 
 
 
